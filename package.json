@@ -15,6 +15,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.3",
+    "get-mac-address": "^1.0.0",
+    "getmac": "^1.2.1",
+    "moment": "^2.18.1",
     "socket.io": "^2.0.3"
   },
   "devDependencies": {
